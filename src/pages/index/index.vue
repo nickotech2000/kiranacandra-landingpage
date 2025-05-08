@@ -8,7 +8,7 @@
             <div class="container relative">
                 <div class="grid md:grid-cols-12 grid-cols-1 items-center mt-10 gap-[30px]">
                     <div class="md:col-span-7">
-                        <div class="md:me-4">
+                        <div class="md:me-6">
                             <img :src="logo" class="mb-4" alt="">
                             <h4 class="font-semibold lg:leading-normal leading-normal text-4xl lg:text-5xl mb-5 text-black dark:text-white">Ask, Take Action<br> Your Next Travel</h4>
                             <p class="text-slate-400 text-lg max-w-xl">Welcome to Kirana The Future of Hospitality Services, Powered by Web3, RWA, and AI</p>
