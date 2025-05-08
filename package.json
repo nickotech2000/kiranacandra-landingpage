@@ -1,7 +1,7 @@
 {
-  "name": "techwind",
-  "version": "3.0.0",
-  "description": "Techwind - Tailwind Vue Js Multipurpose Landing & Admin Dashboard Template",
+  "name": "kiranacandra",
+  "version": "1.0.0",
+  "description": "kirana candra landing page",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
